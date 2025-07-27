@@ -6,7 +6,7 @@ A front-end clone of [Naukri.com](https://www.naukri.com/), India’s leading jo
 
 ## 🚀 Live Demo
 
-👉 [View Deployed Project](https://naukri-clone.netlify.app) <!-- Replace with your deployment link if available -->
+👉 [View Deployed Project](https://ar-aryanrai.github.io/Naukri.com-Clone/) <!-- Replace with your deployment link if available -->
 
 ---
 
